@@ -19,8 +19,7 @@ If you don’t already have Tampermonkey, install it for your browser:
 - [Tampermonkey for Safari](https://apps.apple.com/us/app/tampermonkey/id1482490089) 🍎
 
 ### Step 2: Add the Script 📜
-1. Click this link to access the script: [AllChinaBuyEnhancerLoader.user.js](https://raw.githubusercontent.com/[YourUsername]/[YourRepo]/main/AllChinaBuyEnhancerLoader.user.js) 🔗
-   - Replace `[YourUsername]` and `[YourRepo]` with your actual GitHub username and repository name once you set it up. 👤
+1. Click this link to access the script: [AllChinaBuyEnhancerLoader.user.js](https://raw.githubusercontent.com/j7ps/AllChinaBuy-Enhancer/main/AllChinaBuyEnhancerLoader.user.js) 🔗
 2. Tampermonkey will detect the script and prompt you to install it. Click **Install**. ✅
 3. Once installed, the script will automatically run on [allchinabuy.com](https://www.allchinabuy.com/). 🎉
 
@@ -35,10 +34,10 @@ If you don’t already have Tampermonkey, install it for your browser:
 
 ## Troubleshooting 🐛
 - **Prices not converting?** Ensure Tampermonkey is enabled and the script is active. Refresh the page. 🔄
-- **Errors?** Open your browser console (F12 > Console) and check for messages. Report issues [here](https://github.com/[YourUsername]/[YourRepo]/issues). 🚨
+- **Errors?** Open your browser console (F12 > Console) and check for messages. Report issues [here](https://github.com/j7ps/AllChinaBuy-Enhancer/issues). 🚨
 
 ## Contributing 🤝
-Feel free to fork this repo and submit pull requests with improvements! Suggestions are welcome via [issues](https://github.com/[YourUsername]/[YourRepo]/issues). 🌟
+Feel free to fork this repo and submit pull requests with improvements! Suggestions are welcome via [issues](https://github.com/j7ps/AllChinaBuy-Enhancer/issues). 🌟
 
 ## License 📝
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. ⚖️
